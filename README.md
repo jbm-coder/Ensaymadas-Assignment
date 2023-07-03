@@ -18,4 +18,4 @@ Jonas Manalang
 
 ## 6 - 	Screenshots of your Trello board throughout the duration of the project
 
-![Screenshot](Trello1.png)
+![Trello Board 1](images/Trello1.PNG)
