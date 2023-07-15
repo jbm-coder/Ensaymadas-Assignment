@@ -39,10 +39,8 @@ Jonas Manalang
 ## 6 - 	Screenshots of your Trello board throughout the duration of the project
 
 Starting Trello Board/Brainstorming
-![Trello Board 1][def]
+![Trello Board 1](https://github.com/jbm-coder/Ensaymadas-Assignment/blob/553cf1fbf13422022f89741b6f613fc11eb83914/Images/Trello1.PNG)
 
 Completing first to do list and breaking question R1 into micro task for better management.
-![Trello Board 1][def2]
+![Trello Board 1](https://github.com/jbm-coder/Ensaymadas-Assignment/blob/553cf1fbf13422022f89741b6f613fc11eb83914/Images/Trello2.PNG)
 
-[def]: images/Trello1.PNG
-[def2]: images/Trello2.PNG
