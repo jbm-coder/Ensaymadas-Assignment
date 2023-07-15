@@ -39,7 +39,9 @@ Jonas Manalang
 ## 6 - 	Screenshots of your Trello board throughout the duration of the project
 
 Starting Trello Board/Brainstorming
-![Trello Board 1](images/Trello1.PNG)
+![Trello Board 1][def]
 
 Completing first to do list and breaking question R1 into micro task for better management.
 ![Trello Board 1](images/Trello2.PNG)
+
+[def]: images/Trello1.PNG
