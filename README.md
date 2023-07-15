@@ -41,5 +41,5 @@ Jonas Manalang
 Starting Trello Board/Brainstorming
 ![Trello Board 1](images/Trello1.PNG)
 
-Completing first to do list and breaking question R1 into micro list for better management.
+Completing first to do list and breaking question R1 into micro task for better management.
 ![Trello Board 1](images/Trello2.PNG)
