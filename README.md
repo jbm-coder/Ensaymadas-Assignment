@@ -27,7 +27,7 @@ Jonas Manalang
     - Node.js - Node.js will run Ensaymadas' back-end logic of user account creation, authentication and authorization of Ensaymadas' website. Node.js communicates with MondoDB to handle user account data and transactions. Additionally, Node.js integrates seamlessly with Express.js and enables efficient handling of requests, database interactions, and other server-side operations.
     - Express.js - Express.js will manage the server-side logic and serve as a conduit between the database and front end. Express.js will manage routing, take care of HTTP requests and responses, make it easier to get and store data from the MongoDB database. Additionally, Express.js will let the client and server to communicate securely.
     - Heroku (Hosting Platform) - Heroku is a cloud-based platform that makes it simple to deploy and host web applications. Ensaymadas website will be deployed on Heroku, making it accessible to users over the internet. Heroku offers scalability, dependability, and easier hosting infrastructure maintenance.
-    
+
 ## 2 - Dataflow Diagram
 
 ## 3 - Application Architecture Diagram
@@ -38,4 +38,8 @@ Jonas Manalang
 
 ## 6 - 	Screenshots of your Trello board throughout the duration of the project
 
+Starting Trello Board/Brainstorming
 ![Trello Board 1](images/Trello1.PNG)
+
+Completing first to do list and breaking question R1 into micro list for better management.
+![Trello Board 1](images/Trello2.PNG)
