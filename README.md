@@ -42,6 +42,7 @@ Starting Trello Board/Brainstorming
 ![Trello Board 1][def]
 
 Completing first to do list and breaking question R1 into micro task for better management.
-![Trello Board 1](images/Trello2.PNG)
+![Trello Board 1][def2]
 
 [def]: images/Trello1.PNG
+[def2]: images/Trello2.PNG
